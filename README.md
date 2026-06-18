@@ -8,10 +8,6 @@
 
 ---
 
-### 扫码加 QQ 群(不要搜索群号), 获取最新下载，交流学习
-
-<img width="260" alt="QQ群二维码" src="https://github.com/user-attachments/assets/f407b86e-7c7c-4a18-98aa-17c7dde87508" />
-
 </div>
 
 ---
